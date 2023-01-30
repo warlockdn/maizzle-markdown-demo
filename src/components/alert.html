@@ -1,16 +1,16 @@
 <script props>
   module.exports = {
     type: {
-      info: 'bg-green-600/10 text-blue-600',
+      info: 'bg-[#F4FAF8] text-blue-600 border-[#89C3AF]',
       warning: 'bg-amber-100 text-amber-600',
-      danger: 'bg-rose-100 text-rose-600',
+      danger: 'bg-[#FEF6F9] text-rose-600 border-[#DE1B3B]',
     }[props.type] || 'bg-blue-100 text-blue-600'
   }
 </script>
 
 <table class="w-full mb-8">
   <tr>
-    <td attributes class="py-3 px-4 border-2 border-emerald-600 border-solid rounded-lg text-center {{ type }}">
+    <td attributes class="py-3 px-4 border-2 border-solid rounded-lg text-center {{ type }}">
       <table class="w-full">
         <tr>
           <td class="p-5 pb-8">
@@ -19,7 +19,7 @@
         </tr>
         <tr>
           <td class="pb-4">
-            <div class="text-xl font-bold text-gray-900"><content></content></div>
+            <div class="text-lg font-bold text-gray-900"><content></content></div>
           </td>
         </tr>
       </table>

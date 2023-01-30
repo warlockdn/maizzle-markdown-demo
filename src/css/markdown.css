@@ -38,12 +38,13 @@ h6 {
 }
 
 p {
-  @apply text-base leading-6 text-slate-600;
+  @apply text-base leading-6 text-[#1A1A1A];
   @apply m-0 mb-8;
 }
 
 ul, ol {
-  @apply leading-6 text-slate-600;
+  @apply mb-8 leading-6 text-[#1A1A1A];
+  padding-left: 24px;
 }
 
 blockquote {
@@ -66,7 +67,7 @@ img {
 }
 
 a {
-  @apply text-blue-600;
+  @apply text-[#00548C];
   text-decoration: underline;
 }
 
