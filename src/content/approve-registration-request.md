@@ -8,14 +8,13 @@ title: "Approve Registration Request"
 
 Hello First Name,
 
-Our QualChoice Enrollment team has approved your registration request for Policy Holder ID XXXXX
-Please use the link below to login and enjoy all the features provided by your active account.
+Our QualChoice Enrollment Team approved your registration request for Policy Holder ID: XXXXX. It could take up to 4 hours before transaction changes are available on the website.
 
-[Dynamic Activation Link](https://test.com)
+Log into your Employer Portal account to enjoy all the features provided.
 
-The above transaction has been approved and sent for processing. Please allow 2-4 hours, before the transaction changes may be available on the web.
+If you have any questions, please call the Enrollment Team at [800.235.7111](tel:800.235.7111).
 
-If you have any questions, please call Enrollment at [800.235.7111](tel:8002357111). We value your business and look forward to serving you!
+We value your business and look forward to serving you!
 
 <x-signature></x-signature>
 

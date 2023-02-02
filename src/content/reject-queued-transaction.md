@@ -16,7 +16,9 @@ Our QualChoice Enrollment team was unable to process your request
 - **Qualifying Event:**     New Hire
 - **Rejection reason:**     Required documentation not submitted
 
-If you have any questions, please call Enrollment at [800.235.7111](tel:8002357111). We value your business and look forward to serving you!
+If you have any questions, please call the Enrollment Team at [800.235.7111](tel:800.235.7111).
+
+We value your business and look forward to serving you!
 
 <x-signature></x-signature>
 

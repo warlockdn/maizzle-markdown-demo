@@ -39,11 +39,11 @@ h6 {
 
 p {
   @apply text-base leading-6 text-[#1A1A1A];
-  @apply m-0 mb-8;
+  @apply m-0 mb-7;
 }
 
 ul, ol {
-  @apply mb-8 leading-6 text-[#1A1A1A];
+  @apply mb-8 leading-8 text-[#1A1A1A];
   padding-left: 24px;
 }
 

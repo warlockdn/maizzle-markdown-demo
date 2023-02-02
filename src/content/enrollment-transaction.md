@@ -8,16 +8,17 @@ title: "Enrollment Transaction Approved"
 
 Hello First Name,
 
-Our Qualchoice Enrollment team has approved your pending enrollment transaction
+The QualChoice Enrollment Team approved your enrollment transaction. It could take up to 4 hours before transaction changes are available on the website.
+
 - **Date Submitted:**         06/08/2022
 - **Enrollment ID:**          00563333
 - **Name of Employee:**       John Doe
 - **Type of Transaction:**    Add Dependent
 
-The above transaction has been approved and sent for processing.
-Please allow 2-4 hours, before the transaction changes may be available on the web.
+If you have any questions, please call the Enrollment Team
+at [800.235.7111](tel:8002357111).
 
-If you have any questions, please call Enrollment at [800.235.7111](tel:8002357111).
+We value your business and look forward to serving you!
 
 <x-signature></x-signature>
 

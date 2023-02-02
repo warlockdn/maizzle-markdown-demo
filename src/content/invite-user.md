@@ -4,13 +4,11 @@ title: "Draft Enrollment Pending Deletion"
 
 Hello First Name,
 
-Your Employer portal account has been activated and is ready for use. Please use the link below to login and enjoy all the features provided by your active account.
+Your account is active and ready to use. Log into your [Employer Portal account](https://test.com) to enjoy all the features provided.
 
-[Dynamic Activation Link](https://test.com)
+If you have any questions, please call the Enrollment Team at [800.235.7111](tel:8002357111).
 
-If the link above does not appear as a link in your email, please copy and paste the entire link that starts with http in a new browser window.
-
-If you have any questions, please call Enrollment at [800.235.7111](tel:8002357111). We value your business and look forward to serving you!
+We value your business and look forward to serving you!
 
 <x-signature></x-signature>
 

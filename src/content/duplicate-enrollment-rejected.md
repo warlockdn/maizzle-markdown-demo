@@ -8,11 +8,11 @@ title: "Duplicate Enrollment Request Rejected"
 
 Hello First Name,
 
-Our QualChoice Enrollment team has denied your registration request for Policy Holder ID XXXXX
+Our QualChoice Enrollment Team denied your duplicate registration request for Policy Holder ID: XXXXX.
 
-This request duplicates another registration request for the same Policy Holder.
+This request duplicates another registration request for the same Policy Holder. If you have any questions, please call the Enrollment Team at [800.235.7111](tel:800.235.7111).
 
-If you have any questions, please call Enrollment at [800.235.7111](tel:8002357111). We value your business and look forward to serving you!
+We value your business and look forward to serving you!
 
 <x-signature></x-signature>
 
