@@ -7,7 +7,7 @@ Hello First Name,
 Your draft enrollment transaction will be deleted in 7 days if no further action is taken. 
 Please log into the [Employer Portal URL](https://test.com) to either complete and submit, or delete the following transaction:
 
-- **Name of Employee:** &emsp;&nbsp; John Doe
+- **Name:** &emsp;&nbsp; John Doe
 - **Type of Transaction:** &emsp; 00563333
 - **Qualifying Event:** &emsp;&emsp;&nbsp;&nbsp; Add Dependent
 

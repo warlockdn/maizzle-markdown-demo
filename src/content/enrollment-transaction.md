@@ -12,7 +12,7 @@ The QualChoice Enrollment Team approved your enrollment transaction. It could ta
 
 - **Date Submitted:** &emsp;&emsp; 06/08/2022
 - **Enrollment ID:** &emsp;&emsp;&emsp; 00563333
-- **Name of Employee:** &nbsp;&nbsp; John Doe
+- **Name:** &nbsp;&nbsp; John Doe
 - **Type of Transaction:** &nbsp; Add Dependent
 
 If you have any questions, please call the Enrollment Team
