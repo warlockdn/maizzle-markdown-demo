@@ -3,18 +3,18 @@ title: "Enrollment Transaction Rejected"
 ---
 
 <x-alert type="danger" role="danger">
-  Enrollment Transaction Rejected
+  Pending Enrollment Transaction Rejected!
 </x-alert>
 
 Hello First Name,
 
 Our QualChoice Enrollment team was unable to process your request
-- **Date Submitted:**       12/11/2022
-- **Enrollment ID:**        ED223536
-- **Name of Employee:**     Syam Smith
-- **Type of Transaction:**  Add Dependent
-- **Qualifying Event:**     New Hire
-- **Rejection reason:**     Required documentation not submitted
+- **Date Submitted:** &emsp;&emsp;&emsp; 12/11/2022
+- **Enrollment ID:** &emsp;&emsp;&emsp;&emsp; ED223536
+- **Name of Employee:** &emsp;&nbsp;&nbsp; Syam Smith
+- **Type of Transaction:** &emsp; Add Dependent
+- **Qualifying Event:** &emsp;&emsp;&nbsp;&nbsp; New Hire
+- **Rejection reason:** &emsp;&emsp;&nbsp; Required documentation not submitted
 
 If you have any questions, please call the Enrollment Team at [800.235.7111](tel:800.235.7111).
 

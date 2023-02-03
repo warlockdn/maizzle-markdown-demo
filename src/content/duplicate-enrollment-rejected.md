@@ -3,7 +3,7 @@ title: "Duplicate Enrollment Request Rejected"
 ---
 
 <x-alert type="danger" role="danger">
-  Duplicate Request Rejected
+  Duplicate Request Rejected!
 </x-alert>
 
 Hello First Name,

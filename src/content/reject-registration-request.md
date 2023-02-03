@@ -3,7 +3,7 @@ title: "Reject Registration Request"
 ---
 
 <x-alert type="danger" role="danger">
-  Registration Request Rejected
+  Registration Request Rejected!
 </x-alert>
 
 Hello First Name,
