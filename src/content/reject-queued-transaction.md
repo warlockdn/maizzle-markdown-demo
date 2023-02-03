@@ -11,7 +11,7 @@ Hello First Name,
 Our QualChoice Enrollment team was unable to process your request
 - **Date Submitted:** &emsp;&emsp;&emsp; 12/11/2022
 - **Enrollment ID:** &emsp;&emsp;&emsp;&emsp; ED223536
-- **Name:** &emsp;&nbsp;&nbsp; Syam Smith
+- **Name:** &emsp;&emsp;&emsp;&nbsp;&nbsp;&nbsp;&emsp;&emsp;&emsp;&nbsp;&nbsp; Syam Smith
 - **Type of Transaction:** &emsp; Add Dependent
 - **Qualifying Event:** &emsp;&emsp;&nbsp;&nbsp; New Hire
 - **Rejection reason:** &emsp;&emsp;&nbsp; Required documentation not submitted
